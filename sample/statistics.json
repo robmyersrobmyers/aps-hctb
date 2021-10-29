@@ -1,0 +1,437 @@
+{
+  "2021-08-05": null,
+  "2021-08-06": null,
+  "2021-08-09": null,
+  "2021-08-10": null,
+  "2021-08-11": null,
+  "2021-08-12": null,
+  "2021-08-13": null,
+  "2021-08-16": {
+    "AM": {
+      "busSubstitution": {
+        "originalBusNumber": "684",
+        "replacementBusNumber": "663"
+      }
+    }
+  },
+  "2021-08-17": null,
+  "2021-08-18": null,
+  "2021-08-19": null,
+  "2021-08-20": null,
+  "2021-08-23": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-08-23T19:26:01.000Z",
+      "scheduledArrivalTime": "2021-08-23T19:10:00.000Z",
+      "deviationText": "(+0:16:01) 16 minutes 01 seconds late",
+      "deviationSeconds": 961
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-08-23T10:58:31.000Z",
+      "scheduledArrivalTime": "2021-08-23T10:57:00.000Z",
+      "deviationText": "(+0:01:31) 01 minutes 31 seconds late",
+      "deviationSeconds": 91
+    }
+  },
+  "2021-08-24": null,
+  "2021-08-25": {
+    "PM": {
+      "busNumber": "692",
+      "notificationTime": "2021-08-25T19:26:20.000Z",
+      "scheduledArrivalTime": "2021-08-25T19:10:00.000Z",
+      "deviationText": "(+0:16:20) 16 minutes 20 seconds late",
+      "deviationSeconds": 980,
+      "busSubstitution": {
+        "originalBusNumber": "568",
+        "replacementBusNumber": "692"
+      }
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-08-25T10:56:37.000Z",
+      "scheduledArrivalTime": "2021-08-25T10:57:00.000Z",
+      "deviationText": "(-0:0:23) 23 seconds early",
+      "deviationSeconds": -23
+    }
+  },
+  "2021-08-26": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-08-26T19:08:31.000Z",
+      "scheduledArrivalTime": "2021-08-26T19:10:00.000Z",
+      "deviationText": "(-0:01:29) 01 minutes 29 seconds early",
+      "deviationSeconds": -89
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-08-26T11:00:03.000Z",
+      "scheduledArrivalTime": "2021-08-26T10:57:00.000Z",
+      "deviationText": "(+0:03:03) 03 minutes 03 seconds late",
+      "deviationSeconds": 183
+    }
+  },
+  "2021-08-27": {
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-08-27T10:53:58.000Z",
+      "scheduledArrivalTime": "2021-08-27T10:57:00.000Z",
+      "deviationText": "(-0:03:02) 03 minutes 02 seconds early",
+      "deviationSeconds": -182
+    }
+  },
+  "2021-08-30": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-08-30T19:19:59.000Z",
+      "scheduledArrivalTime": "2021-08-30T19:10:00.000Z",
+      "deviationText": "(+0:09:59) 09 minutes 59 seconds late",
+      "deviationSeconds": 599
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-08-30T10:53:58.000Z",
+      "scheduledArrivalTime": "2021-08-30T10:57:00.000Z",
+      "deviationText": "(-0:03:02) 03 minutes 02 seconds early",
+      "deviationSeconds": -182
+    }
+  },
+  "2021-08-31": {
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-08-31T10:55:55.000Z",
+      "scheduledArrivalTime": "2021-08-31T10:57:00.000Z",
+      "deviationText": "(-0:01:05) 01 minutes 05 seconds early",
+      "deviationSeconds": -65
+    }
+  },
+  "2021-09-01": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-01T19:18:26.000Z",
+      "scheduledArrivalTime": "2021-09-01T19:10:00.000Z",
+      "deviationText": "(+0:08:26) 08 minutes 26 seconds late",
+      "deviationSeconds": 506
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-01T11:04:44.000Z",
+      "scheduledArrivalTime": "2021-09-01T10:57:00.000Z",
+      "deviationText": "(+0:07:44) 07 minutes 44 seconds late",
+      "deviationSeconds": 464
+    }
+  },
+  "2021-09-02": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-02T19:16:27.000Z",
+      "scheduledArrivalTime": "2021-09-02T19:10:00.000Z",
+      "deviationText": "(+0:06:27) 06 minutes 27 seconds late",
+      "deviationSeconds": 387
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-02T10:55:17.000Z",
+      "scheduledArrivalTime": "2021-09-02T10:57:00.000Z",
+      "deviationText": "(-0:01:43) 01 minutes 43 seconds early",
+      "deviationSeconds": -103
+    }
+  },
+  "2021-09-06": null,
+  "2021-09-07": {
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-07T11:04:35.000Z",
+      "scheduledArrivalTime": "2021-09-07T10:57:00.000Z",
+      "deviationText": "(+0:07:35) 07 minutes 35 seconds late",
+      "deviationSeconds": 455
+    }
+  },
+  "2021-09-08": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-08T19:14:58.000Z",
+      "scheduledArrivalTime": "2021-09-08T19:10:00.000Z",
+      "deviationText": "(+0:04:58) 04 minutes 58 seconds late",
+      "deviationSeconds": 298
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-08T10:53:45.000Z",
+      "scheduledArrivalTime": "2021-09-08T10:57:00.000Z",
+      "deviationText": "(-0:03:15) 03 minutes 15 seconds early",
+      "deviationSeconds": -195
+    }
+  },
+  "2021-09-09": {
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-09T10:55:46.000Z",
+      "scheduledArrivalTime": "2021-09-09T10:57:00.000Z",
+      "deviationText": "(-0:01:14) 01 minutes 14 seconds early",
+      "deviationSeconds": -74
+    }
+  },
+  "2021-09-10": {
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-10T11:00:09.000Z",
+      "scheduledArrivalTime": "2021-09-10T10:57:00.000Z",
+      "deviationText": "(+0:03:09) 03 minutes 09 seconds late",
+      "deviationSeconds": 189
+    }
+  },
+  "2021-09-13": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-13T19:16:41.000Z",
+      "scheduledArrivalTime": "2021-09-13T19:10:00.000Z",
+      "deviationText": "(+0:06:41) 06 minutes 41 seconds late",
+      "deviationSeconds": 401
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-13T10:53:57.000Z",
+      "scheduledArrivalTime": "2021-09-13T10:57:00.000Z",
+      "deviationText": "(-0:03:03) 03 minutes 03 seconds early",
+      "deviationSeconds": -183
+    }
+  },
+  "2021-09-14": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-14T19:26:08.000Z",
+      "scheduledArrivalTime": "2021-09-14T19:10:00.000Z",
+      "deviationText": "(+0:16:08) 16 minutes 08 seconds late",
+      "deviationSeconds": 968
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-14T10:54:05.000Z",
+      "scheduledArrivalTime": "2021-09-14T10:57:00.000Z",
+      "deviationText": "(-0:02:55) 02 minutes 55 seconds early",
+      "deviationSeconds": -175
+    }
+  },
+  "2021-09-15": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-15T19:28:07.000Z",
+      "scheduledArrivalTime": "2021-09-15T19:10:00.000Z",
+      "deviationText": "(+0:18:07) 18 minutes 07 seconds late",
+      "deviationSeconds": 1087
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-15T10:55:46.000Z",
+      "scheduledArrivalTime": "2021-09-15T10:57:00.000Z",
+      "deviationText": "(-0:01:14) 01 minutes 14 seconds early",
+      "deviationSeconds": -74
+    }
+  },
+  "2021-09-16": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-16T19:22:05.000Z",
+      "scheduledArrivalTime": "2021-09-16T19:10:00.000Z",
+      "deviationText": "(+0:12:05) 12 minutes 05 seconds late",
+      "deviationSeconds": 725
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-16T10:55:36.000Z",
+      "scheduledArrivalTime": "2021-09-16T10:57:00.000Z",
+      "deviationText": "(-0:01:24) 01 minutes 24 seconds early",
+      "deviationSeconds": -84
+    }
+  },
+  "2021-09-17": {
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-17T10:55:25.000Z",
+      "scheduledArrivalTime": "2021-09-17T10:57:00.000Z",
+      "deviationText": "(-0:01:35) 01 minutes 35 seconds early",
+      "deviationSeconds": -95
+    }
+  },
+  "2021-09-20": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-20T19:16:42.000Z",
+      "scheduledArrivalTime": "2021-09-20T19:10:00.000Z",
+      "deviationText": "(+0:06:42) 06 minutes 42 seconds late",
+      "deviationSeconds": 402
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-20T10:58:28.000Z",
+      "scheduledArrivalTime": "2021-09-20T10:57:00.000Z",
+      "deviationText": "(+0:01:28) 01 minutes 28 seconds late",
+      "deviationSeconds": 88
+    }
+  },
+  "2021-09-21": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-21T19:16:21.000Z",
+      "scheduledArrivalTime": "2021-09-21T19:10:00.000Z",
+      "deviationText": "(+0:06:21) 06 minutes 21 seconds late",
+      "deviationSeconds": 381
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-21T10:56:57.000Z",
+      "scheduledArrivalTime": "2021-09-21T10:57:00.000Z",
+      "deviationText": "(-0:0:03) 03 seconds early",
+      "deviationSeconds": -3
+    }
+  },
+  "2021-09-22": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-22T19:16:26.000Z",
+      "scheduledArrivalTime": "2021-09-22T19:10:00.000Z",
+      "deviationText": "(+0:06:26) 06 minutes 26 seconds late",
+      "deviationSeconds": 386
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-22T10:53:57.000Z",
+      "scheduledArrivalTime": "2021-09-22T10:57:00.000Z",
+      "deviationText": "(-0:03:03) 03 minutes 03 seconds early",
+      "deviationSeconds": -183
+    }
+  },
+  "2021-09-23": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-23T19:14:03.000Z",
+      "scheduledArrivalTime": "2021-09-23T19:10:00.000Z",
+      "deviationText": "(+0:04:03) 04 minutes 03 seconds late",
+      "deviationSeconds": 243
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-23T10:53:55.000Z",
+      "scheduledArrivalTime": "2021-09-23T10:57:00.000Z",
+      "deviationText": "(-0:03:05) 03 minutes 05 seconds early",
+      "deviationSeconds": -185
+    }
+  },
+  "2021-09-24": null,
+  "2021-09-27": null,
+  "2021-09-29": null,
+  "2021-09-30": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-30T19:16:31.000Z",
+      "scheduledArrivalTime": "2021-09-30T19:10:00.000Z",
+      "deviationText": "(+0:06:31) 06 minutes 31 seconds late",
+      "deviationSeconds": 391
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-09-30T10:55:24.000Z",
+      "scheduledArrivalTime": "2021-09-30T10:57:00.000Z",
+      "deviationText": "(-0:01:36) 01 minutes 36 seconds early",
+      "deviationSeconds": -96
+    }
+  },
+  "2021-10-01": {
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-10-01T10:55:13.000Z",
+      "scheduledArrivalTime": "2021-10-01T10:57:00.000Z",
+      "deviationText": "(-0:01:47) 01 minutes 47 seconds early",
+      "deviationSeconds": -107
+    }
+  },
+  "2021-10-04": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-10-04T19:01:53.000Z",
+      "scheduledArrivalTime": "2021-10-04T19:10:00.000Z",
+      "deviationText": "(-0:08:07) 08 minutes 07 seconds early",
+      "deviationSeconds": -487
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-10-04T10:54:43.000Z",
+      "scheduledArrivalTime": "2021-10-04T10:57:00.000Z",
+      "deviationText": "(-0:02:17) 02 minutes 17 seconds early",
+      "deviationSeconds": -137
+    }
+  },
+  "2021-10-05": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-10-05T19:00:12.000Z",
+      "scheduledArrivalTime": "2021-10-05T19:10:00.000Z",
+      "deviationText": "(-0:09:48) 09 minutes 48 seconds early",
+      "deviationSeconds": -588
+    }
+  },
+  "2021-10-06": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-10-06T19:02:23.000Z",
+      "scheduledArrivalTime": "2021-10-06T19:10:00.000Z",
+      "deviationText": "(-0:07:37) 07 minutes 37 seconds early",
+      "deviationSeconds": -457
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-10-06T10:53:55.000Z",
+      "scheduledArrivalTime": "2021-10-06T10:57:00.000Z",
+      "deviationText": "(-0:03:05) 03 minutes 05 seconds early",
+      "deviationSeconds": -185
+    }
+  },
+  "2021-10-07": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-10-07T19:18:39.000Z",
+      "scheduledArrivalTime": "2021-10-07T19:10:00.000Z",
+      "deviationText": "(+0:08:39) 08 minutes 39 seconds late",
+      "deviationSeconds": 519
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-10-07T10:54:02.000Z",
+      "scheduledArrivalTime": "2021-10-07T10:57:00.000Z",
+      "deviationText": "(-0:02:58) 02 minutes 58 seconds early",
+      "deviationSeconds": -178
+    }
+  },
+  "2021-10-08": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-10-08T19:16:19.000Z",
+      "scheduledArrivalTime": "2021-10-08T19:10:00.000Z",
+      "deviationText": "(+0:06:19) 06 minutes 19 seconds late",
+      "deviationSeconds": 379
+    },
+    "AM": {
+      "busNumber": "568",
+      "notificationTime": "2021-10-08T11:01:33.000Z",
+      "scheduledArrivalTime": "2021-10-08T10:57:00.000Z",
+      "deviationText": "(+0:04:33) 04 minutes 33 seconds late",
+      "deviationSeconds": 273
+    }
+  },
+  "2021-10-18": null,
+  "2021-10-19": null,
+  "2021-10-20": null,
+  "2021-10-21": null,
+  "2021-10-25": {
+    "PM": {
+      "busNumber": "568",
+      "notificationTime": "2021-10-25T19:04:03.000Z",
+      "scheduledArrivalTime": "2021-10-25T19:10:00.000Z",
+      "deviationText": "(-0:05:57) 05 minutes 57 seconds early",
+      "deviationSeconds": -357
+    }
+  },
+  "2021-10-27": null,
+  "2021-10-28": null
+}

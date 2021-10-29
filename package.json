@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "mailparser": "^3.4.0",
+    "mbox-reader": "^1.1.5"
+  },
+  "name": "aps-hctb",
+  "version": "0.0.1",
+  "description": "Generate statistics based on Here Comes The Bus notifications.",
+  "main": "main.js",
+  "scripts": {
+    "lint": "npx eslint . --fix-dry-run",
+    "pretty": "npx prettier --write ."
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "prettier": "^2.3.2"
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  }
+}
