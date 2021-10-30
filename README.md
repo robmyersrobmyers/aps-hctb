@@ -91,6 +91,16 @@ The regexSubstitute capture groups are as follows:
 - Group 1 - Normal Bus Number
 - Group 2 - Replacement Bus Number
 
+## Mailbox Data
+
+Refer to [RFC 4155](https://datatracker.ietf.org/doc/html/rfc4155) for more information on the mbox file format. Here are a few hints to get you started.
+
+- Gmail users can use [Google Takeout](https://takeout.google.com/settings/takeout) to export emails with a specific tag in the mbox file format.
+- [Mail on Mac](https://support.apple.com/guide/mail/import-or-export-mailboxes-mlhlp1030/mac) users can export mbox format directly.
+- Outlook users can manually [convert a .pst to .mbox](https://www.datarecovery.institute/convert-pst-to-mbox-file/) file.
+
+For maximum performance, create a filter to ensure that only Here Comes The Bus notification emails are in your mbox.
+
 ## Analytics
 
 This code is designed to help assess the overall efficacy of the Here Comes The Bus application.
